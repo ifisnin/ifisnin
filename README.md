@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![GitHub Follow](https://img.shields.io/github/followers/drshahizan.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/drshahizan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
@@ -72,3 +72,4 @@ I am  __Shahizan__, and I work as a lecturer at [Universiti Teknologi Malaysia](
   ![](https://hit.yhype.me/github/profile?user_id=81284918)
  
 </details>
+-->
