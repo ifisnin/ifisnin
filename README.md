@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail Isnin</h1>
-<h3 align="center">A passionate lecturer from Malaysia</h3>
+<h3 align="center">A passionate lecturer and researcher from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ifisnin&label=Profile%20views&color=0e75b6&style=flat" alt="ifisnin" /> </p>
 
